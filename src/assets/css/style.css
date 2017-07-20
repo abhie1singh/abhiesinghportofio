@@ -537,3 +537,7 @@ input {
      position: relative;
      top: 50px;
   }
+
+  .loading-icon {
+   font-size: 100px;
+}
